@@ -15,6 +15,7 @@ It's a repository about recursions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ishan-giri-05293/Recursion/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Ishan-giri-05293/Recursion/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -23,4 +24,9 @@ It's a repository about recursions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ishan-giri-05293/Recursion/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Ishan-giri-05293/Recursion/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ishan-giri-05293/Recursion/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
